@@ -28,20 +28,18 @@ MERLIN is your all-in-one solution for image optimization, ensuring lightning-fa
 
 **With MERLIN, your media assets are not just optimized—they’re perfected for every device, every user, and every moment.**  
 
+----
 
-### MARLIN Plans:
+### MARLIN Plans (Scope :: End User)
 
-| **Plan**       | **MRLN-FREE**                      | **MRLN-BARRACUDA**                     | **MRLN-MAKO**                          | **MRLN-TUNA**                          | **MRLN-SAILFISH**                       | **MRLN-GIANTMARLIN**                     |
-|----------------|------------------------------------|----------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|------------------------------------------|
-| **Description** | Basic plan for users to explore and get started. | A robust entry-level plan, offering essential features to get things moving. | A balanced plan that focuses on speed and flexibility for growing needs. | A mid-tier plan designed for performance, scalability, and reliability. | A premium plan combining top-tier performance with speed and elegance. | The ultimate plan for enterprise clients, offering power, precision, and exclusivity. |
-| **Renders**    | 10000                              | 250000                                 | 750000                                | 1500000                                | 2500000                                 | 5000000                                 |
-| **Hits**       | 100000                             | 2500000                                | 7500000                               | 15000000                               | 25000000                                | 50000000                                |                                    |
-| **Cost (USD)** | Free                               | $30 (USD)                              | $75 (USD)                             | $145 (USD)                             | $250 (USD)                               | $600 (USD)                                |
-| **Ex Cost / Render** | *                                | $0.000375 (USD)                            | $0.00025 (USD)                          | $0.0002 (USD)                            | $0.000175 (USD)                           | $0.000125 (USD)                           |
-| **Calc / 1000** | *                                  | $0.375 (USD)                             | $0.25 (USD)                            | $0.2 (USD)                             | $0.175 (USD)                              | $0.125 (USD)                              |
-| **Ex Cost / Hit** | *                                | $0.00009375 (USD)                        | $0.0000625 (USD)                       | $0.00005 (USD)                          | $0.00004375 (USD)                        | $0.00003125 (USD)                        |
-| **Calc / 10000** | *                                | $0.9375 (USD)                            | $0.625 (USD)                           | $0.5 (USD)                             | $0.4375 (USD)                            | $0.3125 (USD)                            |
-| **Type**       | welcome                            | commercial                             | commercial                            | commercial                             | commercial                               | commercial                               |
-| **Scope**      | clients                            | clients                                | clients                               | clients                                | clients                                  | clients                                  |
-```
-* Extra rendering and extra hits are not allowed, accounts will be blocked in case of overage.
+| **Plan**               | **MRLN-FREE**  | **MRLN-BARRACUDA**  | **MRLN-MAKO**    | **MRLN-TUNA**    | **MRLN-SAILFISH** | **MRLN-GIANTMARLIN** |
+|------------------------|----------------|---------------------|------------------|------------------|-------------------|----------------------|
+| **Cost**               | Free           | $30/month           | $75/month        | $145/month       | $250/month        | $600/month           |
+| **Renders**            | 10,000         | 250,000             | 750,000          | 1,500,000        | 2,500,000         | 5,000,000            |
+| **Hits**               | 100,000        | 2,500,000           | 7,500,000        | 15,000,000       | 25,000,000        | 50,000,000           |
+| **Extra Cost / Render**| *              | $0.000375 (USD)     | $0.00025 (USD)   | $0.0002 (USD)    | $0.000175 (USD)   | $0.000125 (USD)      |
+| **Extra Cost / Hit**   | *              | $0.00009375 (USD)   | $0.0000625 (USD) | $0.00005 (USD)   | $0.00004375 (USD) | $0.00003125 (USD)    |
+| **Extra Add-on** | Not Allowed             | *    | *  | *| *    | *   |
+
+* Extra Ad-on: $1 (USD) / 10,000 Renders + 100,000 Hits
+* Extra rendering and extra hits are not allowed; accounts will be blocked in case of overage.
